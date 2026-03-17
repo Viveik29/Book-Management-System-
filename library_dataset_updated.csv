@@ -1,0 +1,201 @@
+Book_ID,Title,Author,Category,Cabinet,Rack,Row,Signal_Strength,Timestamp,Status,Price,Availability
+B001,The Adventures of Chronicles,Jordan Brown,Programming,4,5,4,-59,11-12-2024 10:01,Present,202,TRUE
+B002,The Dream of Shadows,Taylor Walker,History,3,3,5,-42,11-12-2024 10:02,Missing,535,FALSE
+B003,The Shadows of Mystery,Jordan Johnson,Science,5,3,4,-47,11-12-2024 10:03,Checked Out,960,FALSE
+B004,The Chronicles of Dream,Casey Walker,Fiction,4,1,1,-60,11-12-2024 10:04,Missing,370,FALSE
+B005,The Future of Adventures,Skyler Lee,Programming,3,4,2,-58,11-12-2024 10:05,Missing,206,FALSE
+B006,The Chronicles of Chronicles,Skyler Smith,Thriller,4,2,4,-53,11-12-2024 10:06,Present,171,TRUE
+B007,The Journey of Adventures,Morgan Hall,Fiction,2,5,1,-57,11-12-2024 10:07,Missing,800,FALSE
+B008,The Legacy of Quest,Alex Clark,Science,3,3,2,-54,11-12-2024 10:08,Missing,120,TRUE
+B009,The Mystery of Dream,Jordan Anderson,Fiction,1,5,4,-55,11-12-2024 10:09,Present,714,TRUE
+B010,The Adventures of Shadows,Dakota Taylor,Programming,5,1,3,-45,11-12-2024 10:10,Checked Out,221,FALSE
+B011,The Shadows of Adventures,Riley Clark,Fiction,2,5,2,-42,11-12-2024 10:11,Checked Out,566,FALSE
+B012,The Future of Dream,Riley Hall,Fiction,4,2,5,-40,11-12-2024 10:12,Checked Out,314,FALSE
+B013,The Code of Shadows,Quinn Walker,Thriller,1,3,1,-53,11-12-2024 10:13,Missing,430,FALSE
+B014,The Code of Journey,Skyler Walker,Thriller,3,1,5,-52,11-12-2024 10:14,Checked Out,558,FALSE
+B015,The Mystery of Shadows,Morgan Clark,Science,2,4,1,-40,11-12-2024 10:15,Missing,187,FALSE
+B016,The Future of Shadows,Skyler Hall,Programming,1,4,2,-50,11-12-2024 10:16,Checked Out,472,FALSE
+B017,The Chronicles of Legacy,Taylor Clark,Thriller,5,1,2,-45,11-12-2024 10:17,Checked Out,199,FALSE
+B018,The Mystery of Legacy,Casey Smith,Fiction,3,5,2,-41,11-12-2024 10:18,Present,971,TRUE
+B019,The Future of Mystery,Casey Hall,Fiction,4,1,5,-48,11-12-2024 10:19,Missing,763,FALSE
+B020,The Adventures of Shadows,Alex Walker,Thriller,2,3,4,-50,11-12-2024 10:20,Missing,230,FALSE
+B021,The Quest of Chronicles,Jordan Smith,Programming,5,2,1,-42,11-12-2024 10:21,Checked Out,761,TRUE
+B022,The Dream of Shadows,Jamie Johnson,Programming,4,4,1,-50,11-12-2024 10:22,Missing,408,FALSE
+B023,The Journey of Chronicles,Jordan Allen,Science,3,2,3,-60,11-12-2024 10:23,Present,869,TRUE
+B024,The Dream of Quest,Jamie Johnson,Science,4,5,5,-47,11-12-2024 10:24,Missing,443,TRUE
+B025,The Mystery of Legacy,Dakota Smith,History,5,5,4,-57,11-12-2024 10:25,Present,591,FALSE
+B026,The Adventures of Journey,Skyler Anderson,History,2,1,3,-41,11-12-2024 10:26,Missing,513,TRUE
+B027,The Chronicles of Journey,Jamie Allen,Fiction,2,1,5,-45,11-12-2024 10:27,Present,905,TRUE
+B028,The Adventures of Dream,Casey Clark,Science,2,4,4,-42,11-12-2024 10:28,Missing,485,TRUE
+B029,The Code of Shadows,Alex Johnson,Thriller,3,4,2,-41,11-12-2024 10:29,Present,291,TRUE
+B030,The Quest of Adventures,Skyler Smith,Science,5,1,3,-43,11-12-2024 10:30,Checked Out,376,FALSE
+B031,The Adventures of Legacy,Morgan Brown,Science,1,2,4,-40,11-12-2024 10:31,Missing,260,TRUE
+B032,The Chronicles of Mystery,Taylor Taylor,Thriller,5,4,1,-48,11-12-2024 10:32,Checked Out,559,FALSE
+B033,The Future of Journey,Dakota Clark,Programming,4,4,4,-47,11-12-2024 10:33,Missing,413,TRUE
+B034,The Future of Code,Morgan Johnson,History,4,4,2,-54,11-12-2024 10:34,Present,121,TRUE
+B035,The Dream of Journey,Jordan Smith,Programming,2,4,4,-54,11-12-2024 10:35,Checked Out,352,TRUE
+B036,The Shadows of Shadows,Riley Lee,History,2,1,5,-59,11-12-2024 10:36,Checked Out,847,TRUE
+B037,The Quest of Future,Jordan Lee,Fiction,5,3,5,-44,11-12-2024 10:37,Checked Out,956,FALSE
+B038,The Dream of Chronicles,Casey Taylor,Programming,1,1,5,-58,11-12-2024 10:38,Checked Out,660,FALSE
+B039,The Future of Legacy,Casey Smith,Programming,5,1,1,-45,11-12-2024 10:39,Present,574,TRUE
+B040,The Shadows of Legacy,Skyler Taylor,Fiction,4,1,1,-43,11-12-2024 10:40,Missing,158,TRUE
+B041,The Quest of Quest,Casey Taylor,Programming,1,5,2,-46,11-12-2024 10:41,Present,610,FALSE
+B042,The Chronicles of Chronicles,Riley Anderson,Programming,1,1,2,-50,11-12-2024 10:42,Missing,781,TRUE
+B043,The Shadows of Adventures,Quinn Johnson,Science,3,3,1,-42,11-12-2024 10:43,Present,575,TRUE
+B044,The Journey of Chronicles,Alex Johnson,Programming,2,2,1,-41,11-12-2024 10:44,Missing,799,TRUE
+B045,The Future of Code,Casey Smith,History,3,2,4,-51,11-12-2024 10:45,Checked Out,882,FALSE
+B046,The Adventures of Shadows,Skyler Lee,Science,4,5,1,-59,11-12-2024 10:46,Checked Out,289,FALSE
+B047,The Chronicles of Shadows,Dakota Brown,Fiction,3,4,2,-55,11-12-2024 10:47,Missing,786,FALSE
+B048,The Shadows of Quest,Morgan Taylor,Science,3,1,1,-50,11-12-2024 10:48,Checked Out,662,TRUE
+B049,The Journey of Journey,Casey Hall,History,2,4,1,-47,11-12-2024 10:49,Present,975,TRUE
+B050,The Quest of Quest,Alex Anderson,Thriller,2,5,3,-49,11-12-2024 10:50,Checked Out,666,FALSE
+B051,The Adventures of Legacy,Skyler Brown,History,3,5,5,-44,11-12-2024 10:51,Present,343,FALSE
+B052,The Shadows of Mystery,Alex Lee,Thriller,4,4,5,-45,11-12-2024 10:52,Missing,931,FALSE
+B053,The Future of Dream,Quinn Smith,Programming,3,5,2,-51,11-12-2024 10:53,Checked Out,604,FALSE
+B054,The Adventures of Dream,Taylor Brown,Fiction,5,3,5,-44,11-12-2024 10:54,Missing,230,TRUE
+B055,The Mystery of Mystery,Riley Lee,History,4,3,4,-59,11-12-2024 10:55,Checked Out,584,FALSE
+B056,The Quest of Shadows,Jordan Hall,History,2,2,3,-55,11-12-2024 10:56,Checked Out,918,TRUE
+B057,The Quest of Future,Taylor Allen,Programming,4,1,5,-58,11-12-2024 10:57,Checked Out,746,FALSE
+B058,The Shadows of Adventures,Riley Allen,Thriller,3,1,3,-40,11-12-2024 10:58,Missing,120,TRUE
+B059,The Quest of Code,Morgan Smith,Programming,2,2,3,-51,11-12-2024 10:59,Missing,940,FALSE
+B060,The Chronicles of Shadows,Morgan Anderson,Programming,5,1,3,-58,11-12-2024 11:00,Checked Out,266,FALSE
+B061,The Quest of Future,Dakota Smith,Science,4,5,3,-40,11-12-2024 11:01,Checked Out,373,FALSE
+B062,The Shadows of Shadows,Morgan Allen,Thriller,1,2,2,-42,11-12-2024 11:02,Present,487,FALSE
+B063,The Quest of Adventures,Alex Clark,History,2,3,1,-60,11-12-2024 11:03,Checked Out,700,TRUE
+B064,The Mystery of Mystery,Skyler Johnson,Programming,2,5,3,-59,11-12-2024 11:04,Checked Out,415,FALSE
+B065,The Future of Journey,Taylor Anderson,Thriller,2,3,3,-51,11-12-2024 11:05,Present,113,TRUE
+B066,The Legacy of Adventures,Jamie Johnson,History,4,5,2,-54,11-12-2024 11:06,Present,341,TRUE
+B067,The Legacy of Dream,Alex Johnson,Thriller,1,3,1,-59,11-12-2024 11:07,Checked Out,876,TRUE
+B068,The Future of Dream,Riley Walker,Fiction,5,3,2,-56,11-12-2024 11:08,Present,445,TRUE
+B069,The Journey of Legacy,Quinn Anderson,Science,5,1,2,-48,11-12-2024 11:09,Present,664,FALSE
+B070,The Legacy of Future,Morgan Clark,Fiction,1,3,4,-43,11-12-2024 11:10,Checked Out,997,TRUE
+B071,The Dream of Mystery,Riley Walker,Thriller,2,2,1,-43,11-12-2024 11:11,Present,439,TRUE
+B072,The Mystery of Dream,Quinn Smith,History,3,1,4,-52,11-12-2024 11:12,Checked Out,191,TRUE
+B073,The Adventures of Quest,Skyler Walker,Programming,2,2,5,-57,11-12-2024 11:13,Present,466,FALSE
+B074,The Mystery of Quest,Skyler Anderson,Fiction,3,1,2,-43,11-12-2024 11:14,Checked Out,554,FALSE
+B075,The Chronicles of Journey,Skyler Smith,Fiction,4,1,2,-56,11-12-2024 11:15,Checked Out,527,FALSE
+B076,The Shadows of Chronicles,Alex Walker,Fiction,5,2,3,-53,11-12-2024 11:16,Checked Out,608,FALSE
+B077,The Shadows of Mystery,Morgan Brown,Science,4,3,2,-55,11-12-2024 11:17,Checked Out,875,TRUE
+B078,The Dream of Dream,Skyler Allen,Thriller,4,2,1,-45,11-12-2024 11:18,Missing,134,TRUE
+B079,The Adventures of Mystery,Alex Smith,Thriller,4,3,1,-55,11-12-2024 11:19,Present,305,FALSE
+B080,The Future of Dream,Quinn Lee,Programming,4,5,2,-44,11-12-2024 11:20,Missing,180,TRUE
+B081,The Shadows of Dream,Alex Hall,Thriller,3,3,4,-47,11-12-2024 11:21,Missing,661,TRUE
+B082,The Legacy of Legacy,Alex Allen,History,3,4,5,-43,11-12-2024 11:22,Present,971,TRUE
+B083,The Adventures of Legacy,Casey Lee,Science,4,3,4,-45,11-12-2024 11:23,Missing,487,FALSE
+B084,The Shadows of Adventures,Casey Taylor,History,3,5,1,-56,11-12-2024 11:24,Present,101,FALSE
+B085,The Chronicles of Journey,Riley Brown,History,1,2,3,-53,11-12-2024 11:25,Missing,489,TRUE
+B086,The Future of Future,Jamie Smith,Thriller,3,4,1,-50,11-12-2024 11:26,Present,665,FALSE
+B087,The Chronicles of Future,Jordan Allen,Thriller,2,1,2,-58,11-12-2024 11:27,Checked Out,205,FALSE
+B088,The Code of Mystery,Casey Johnson,Thriller,4,5,1,-48,11-12-2024 11:28,Checked Out,871,FALSE
+B089,The Code of Code,Alex Taylor,Thriller,5,2,3,-40,11-12-2024 11:29,Missing,921,FALSE
+B090,The Chronicles of Chronicles,Casey Clark,Programming,4,3,2,-40,11-12-2024 11:30,Present,576,FALSE
+B091,The Code of Chronicles,Alex Hall,Fiction,2,1,4,-43,11-12-2024 11:31,Missing,802,TRUE
+B092,The Code of Chronicles,Taylor Allen,Thriller,1,4,3,-44,11-12-2024 11:32,Missing,501,FALSE
+B093,The Code of Quest,Skyler Allen,Science,3,5,2,-50,11-12-2024 11:33,Present,829,TRUE
+B094,The Journey of Code,Jordan Lee,Fiction,5,4,1,-54,11-12-2024 11:34,Checked Out,655,TRUE
+B095,The Mystery of Legacy,Morgan Allen,Fiction,1,4,1,-57,11-12-2024 11:35,Checked Out,261,FALSE
+B096,The Journey of Code,Morgan Brown,Thriller,3,5,1,-55,11-12-2024 11:36,Missing,301,TRUE
+B097,The Mystery of Journey,Alex Brown,Thriller,5,4,3,-41,11-12-2024 11:37,Present,369,TRUE
+B098,The Adventures of Shadows,Taylor Anderson,Thriller,5,2,4,-53,11-12-2024 11:38,Missing,962,TRUE
+B099,The Shadows of Adventures,Jordan Clark,Science,4,3,5,-40,11-12-2024 11:39,Present,915,FALSE
+B100,The Chronicles of Legacy,Casey Clark,Programming,5,1,5,-57,11-12-2024 11:40,Present,370,FALSE
+B101,The Quest of Adventures,Alex Brown,Thriller,3,1,3,-40,11-12-2024 11:41,Checked Out,555,TRUE
+B102,The Chronicles of Legacy,Riley Allen,History,1,1,2,-41,11-12-2024 11:42,Present,561,FALSE
+B103,The Shadows of Mystery,Alex Hall,Programming,5,3,5,-53,11-12-2024 11:43,Missing,826,FALSE
+B104,The Journey of Quest,Casey Smith,Thriller,5,5,2,-50,11-12-2024 11:44,Checked Out,351,FALSE
+B105,The Dream of Journey,Jordan Walker,Programming,5,4,2,-50,11-12-2024 11:45,Present,801,FALSE
+B106,The Future of Future,Morgan Allen,History,5,2,4,-47,11-12-2024 11:46,Checked Out,395,TRUE
+B107,The Journey of Shadows,Taylor Lee,Science,2,1,3,-45,11-12-2024 11:47,Checked Out,824,TRUE
+B108,The Code of Adventures,Taylor Taylor,Science,2,2,3,-42,11-12-2024 11:48,Present,819,FALSE
+B109,The Chronicles of Future,Casey Clark,Fiction,4,1,4,-59,11-12-2024 11:49,Missing,848,FALSE
+B110,The Legacy of Code,Jamie Clark,Programming,1,3,2,-44,11-12-2024 11:50,Missing,437,TRUE
+B111,The Shadows of Journey,Riley Anderson,Science,3,3,4,-44,11-12-2024 11:51,Missing,978,TRUE
+B112,The Future of Quest,Dakota Walker,History,4,5,3,-45,11-12-2024 11:52,Present,152,FALSE
+B113,The Chronicles of Chronicles,Taylor Anderson,Thriller,5,4,4,-44,11-12-2024 11:53,Present,891,TRUE
+B114,The Chronicles of Quest,Casey Smith,Programming,4,5,1,-41,11-12-2024 11:54,Present,316,FALSE
+B115,The Shadows of Future,Alex Anderson,Thriller,1,3,2,-52,11-12-2024 11:55,Checked Out,863,FALSE
+B116,The Legacy of Legacy,Jordan Hall,Programming,2,4,2,-52,11-12-2024 11:56,Missing,287,TRUE
+B117,The Adventures of Chronicles,Jamie Lee,Thriller,1,5,5,-56,11-12-2024 11:57,Present,479,TRUE
+B118,The Journey of Mystery,Casey Taylor,Thriller,2,2,4,-60,11-12-2024 11:58,Checked Out,592,FALSE
+B119,The Journey of Adventures,Dakota Lee,Fiction,5,4,4,-50,11-12-2024 11:59,Checked Out,140,FALSE
+B120,The Adventures of Quest,Jamie Walker,Fiction,3,5,1,-49,11-12-2024 12:00,Missing,256,TRUE
+B121,The Future of Code,Jamie Hall,History,2,1,3,-59,11-12-2024 12:01,Present,114,FALSE
+B122,The Mystery of Adventures,Alex Smith,Thriller,5,5,5,-58,11-12-2024 12:02,Present,912,TRUE
+B123,The Adventures of Quest,Riley Walker,Programming,3,5,2,-43,11-12-2024 12:03,Checked Out,164,FALSE
+B124,The Quest of Shadows,Riley Clark,History,5,3,2,-50,11-12-2024 12:04,Missing,956,TRUE
+B125,The Code of Dream,Dakota Johnson,Programming,1,5,1,-58,11-12-2024 12:05,Checked Out,938,TRUE
+B126,The Code of Code,Casey Clark,History,1,1,4,-58,11-12-2024 12:06,Missing,620,TRUE
+B127,The Code of Mystery,Casey Smith,Science,5,3,2,-58,11-12-2024 12:07,Missing,443,FALSE
+B128,The Journey of Dream,Dakota Clark,Thriller,2,3,2,-58,11-12-2024 12:08,Present,228,FALSE
+B129,The Quest of Future,Riley Walker,Programming,4,4,2,-47,11-12-2024 12:09,Checked Out,747,TRUE
+B130,The Adventures of Legacy,Morgan Hall,History,1,3,2,-43,11-12-2024 12:10,Present,571,FALSE
+B131,The Legacy of Mystery,Taylor Brown,Programming,4,5,2,-53,11-12-2024 12:11,Missing,162,TRUE
+B132,The Legacy of Journey,Taylor Johnson,Programming,2,5,4,-47,11-12-2024 12:12,Checked Out,238,TRUE
+B133,The Shadows of Dream,Alex Hall,History,2,2,2,-44,11-12-2024 12:13,Checked Out,598,FALSE
+B134,The Dream of Legacy,Casey Walker,Science,5,2,4,-46,11-12-2024 12:14,Missing,692,FALSE
+B135,The Code of Legacy,Taylor Allen,History,4,2,5,-59,11-12-2024 12:15,Checked Out,491,TRUE
+B136,The Journey of Adventures,Taylor Smith,History,5,4,1,-55,11-12-2024 12:16,Checked Out,774,FALSE
+B137,The Journey of Adventures,Alex Brown,Science,3,3,4,-49,11-12-2024 12:17,Checked Out,518,FALSE
+B138,The Future of Chronicles,Jordan Anderson,Science,4,5,5,-46,11-12-2024 12:18,Present,388,TRUE
+B139,The Legacy of Code,Jamie Johnson,Programming,5,2,3,-40,11-12-2024 12:19,Present,478,TRUE
+B140,The Quest of Mystery,Taylor Smith,History,4,2,3,-50,11-12-2024 12:20,Present,872,FALSE
+B141,The Quest of Future,Riley Lee,Thriller,4,1,5,-56,11-12-2024 12:21,Present,589,TRUE
+B142,The Chronicles of Adventures,Jordan Anderson,History,1,2,1,-43,11-12-2024 12:22,Present,330,TRUE
+B143,The Shadows of Legacy,Alex Lee,Science,2,4,1,-48,11-12-2024 12:23,Checked Out,140,FALSE
+B144,The Future of Journey,Casey Walker,Fiction,4,1,2,-46,11-12-2024 12:24,Present,127,TRUE
+B145,The Code of Future,Jamie Lee,Science,1,2,4,-43,11-12-2024 12:25,Missing,234,TRUE
+B146,The Adventures of Adventures,Taylor Brown,History,1,2,3,-54,11-12-2024 12:26,Missing,300,FALSE
+B147,The Quest of Shadows,Dakota Brown,Fiction,3,1,5,-53,11-12-2024 12:27,Checked Out,939,FALSE
+B148,The Future of Legacy,Dakota Brown,Thriller,5,1,5,-43,11-12-2024 12:28,Present,879,TRUE
+B149,The Quest of Adventures,Quinn Taylor,History,3,4,1,-58,11-12-2024 12:29,Missing,132,TRUE
+B150,The Quest of Quest,Jamie Clark,Fiction,4,1,2,-48,11-12-2024 12:30,Present,147,FALSE
+B151,The Journey of Quest,Skyler Smith,History,4,4,4,-59,11-12-2024 12:31,Checked Out,602,FALSE
+B152,The Chronicles of Journey,Skyler Johnson,Thriller,3,1,2,-53,11-12-2024 12:32,Present,506,FALSE
+B153,The Journey of Code,Dakota Walker,Fiction,1,1,3,-44,11-12-2024 12:33,Checked Out,673,FALSE
+B154,The Future of Mystery,Taylor Brown,Science,2,4,3,-55,11-12-2024 12:34,Missing,827,TRUE
+B155,The Legacy of Legacy,Jamie Taylor,Thriller,3,3,5,-43,11-12-2024 12:35,Present,904,FALSE
+B156,The Adventures of Chronicles,Alex Lee,Fiction,1,1,2,-49,11-12-2024 12:36,Present,198,FALSE
+B157,The Dream of Journey,Alex Johnson,Fiction,5,4,2,-55,11-12-2024 12:37,Present,783,TRUE
+B158,The Future of Future,Morgan Brown,History,5,4,2,-49,11-12-2024 12:38,Present,971,FALSE
+B159,The Code of Dream,Jordan Anderson,History,1,4,2,-51,11-12-2024 12:39,Present,825,TRUE
+B160,The Shadows of Chronicles,Riley Allen,Fiction,4,3,5,-47,11-12-2024 12:40,Checked Out,646,FALSE
+B161,The Adventures of Future,Quinn Lee,History,2,2,3,-44,11-12-2024 12:41,Present,838,FALSE
+B162,The Future of Adventures,Taylor Brown,History,4,2,3,-57,11-12-2024 12:42,Present,712,FALSE
+B163,The Legacy of Dream,Quinn Brown,Science,5,3,5,-44,11-12-2024 12:43,Missing,561,TRUE
+B164,The Shadows of Adventures,Taylor Brown,Programming,5,5,4,-52,11-12-2024 12:44,Missing,742,TRUE
+B165,The Dream of Mystery,Quinn Johnson,Science,4,2,3,-41,11-12-2024 12:45,Missing,868,FALSE
+B166,The Quest of Future,Taylor Walker,Science,5,2,5,-56,11-12-2024 12:46,Present,104,TRUE
+B167,The Dream of Legacy,Casey Smith,Science,5,1,3,-41,11-12-2024 12:47,Checked Out,317,TRUE
+B168,The Dream of Adventures,Dakota Anderson,Fiction,3,4,5,-45,11-12-2024 12:48,Present,602,TRUE
+B169,The Dream of Chronicles,Jamie Lee,Programming,3,5,3,-58,11-12-2024 12:49,Missing,866,TRUE
+B170,The Quest of Journey,Taylor Allen,History,3,2,4,-52,11-12-2024 12:50,Present,497,TRUE
+B171,The Journey of Chronicles,Dakota Smith,Fiction,3,2,3,-49,11-12-2024 12:51,Missing,970,TRUE
+B172,The Adventures of Legacy,Morgan Clark,Programming,1,5,1,-43,11-12-2024 12:52,Missing,894,FALSE
+B173,The Shadows of Shadows,Skyler Clark,Science,4,2,3,-43,11-12-2024 12:53,Present,492,FALSE
+B174,The Shadows of Journey,Quinn Allen,Programming,3,5,4,-59,11-12-2024 12:54,Missing,306,TRUE
+B175,The Dream of Code,Taylor Anderson,Thriller,1,1,3,-44,11-12-2024 12:55,Checked Out,114,FALSE
+B176,The Legacy of Chronicles,Jordan Lee,Thriller,4,5,3,-49,11-12-2024 12:56,Missing,957,FALSE
+B177,The Shadows of Legacy,Riley Brown,Fiction,2,4,5,-58,11-12-2024 12:57,Checked Out,653,FALSE
+B178,The Future of Adventures,Casey Walker,Programming,2,3,2,-56,11-12-2024 12:58,Checked Out,991,FALSE
+B179,The Code of Shadows,Jamie Lee,History,5,1,3,-45,11-12-2024 12:59,Missing,560,TRUE
+B180,The Chronicles of Dream,Taylor Allen,History,3,3,3,-58,11-12-2024 13:00,Missing,790,FALSE
+B181,The Shadows of Dream,Morgan Smith,Thriller,2,4,2,-40,11-12-2024 13:01,Checked Out,674,FALSE
+B182,The Legacy of Mystery,Jamie Hall,Fiction,3,5,5,-40,11-12-2024 13:02,Missing,963,TRUE
+B183,The Legacy of Quest,Taylor Hall,Science,5,5,4,-56,11-12-2024 13:03,Present,842,TRUE
+B184,The Shadows of Shadows,Taylor Taylor,Fiction,3,2,4,-54,11-12-2024 13:04,Checked Out,340,FALSE
+B185,The Mystery of Mystery,Quinn Brown,History,2,4,1,-41,11-12-2024 13:05,Missing,663,FALSE
+B186,The Chronicles of Journey,Casey Anderson,Fiction,4,4,5,-54,11-12-2024 13:06,Present,195,FALSE
+B187,The Code of Chronicles,Quinn Lee,Thriller,2,2,3,-51,11-12-2024 13:07,Checked Out,999,FALSE
+B188,The Dream of Legacy,Skyler Brown,Science,3,5,5,-45,11-12-2024 13:08,Checked Out,833,FALSE
+B189,The Adventures of Code,Quinn Hall,Fiction,5,5,2,-57,11-12-2024 13:09,Present,584,FALSE
+B190,The Mystery of Journey,Morgan Allen,Thriller,4,2,4,-40,11-12-2024 13:10,Checked Out,506,TRUE
+B191,The Dream of Dream,Morgan Walker,Programming,1,5,2,-43,11-12-2024 13:11,Missing,330,FALSE
+B192,The Journey of Mystery,Skyler Brown,History,2,5,5,-52,11-12-2024 13:12,Checked Out,848,FALSE
+B193,The Code of Shadows,Quinn Lee,Science,3,2,3,-59,11-12-2024 13:13,Present,754,TRUE
+B194,The Dream of Shadows,Taylor Johnson,Fiction,3,4,3,-56,11-12-2024 13:14,Present,270,TRUE
+B195,The Chronicles of Journey,Taylor Allen,Science,2,1,4,-59,11-12-2024 13:15,Checked Out,640,TRUE
+B196,The Journey of Journey,Taylor Clark,Programming,4,1,1,-59,11-12-2024 13:16,Checked Out,135,TRUE
+B197,The Future of Adventures,Alex Anderson,Thriller,3,4,5,-40,11-12-2024 13:17,Missing,624,FALSE
+B198,The Chronicles of Quest,Dakota Brown,Thriller,4,1,4,-42,11-12-2024 13:18,Present,259,FALSE
+B199,The Journey of Adventures,Jordan Johnson,History,2,1,1,-53,11-12-2024 13:19,Present,938,FALSE
+B200,The Dream of Code,Riley Smith,Fiction,5,1,5,-57,11-12-2024 13:20,Checked Out,798,FALSE
